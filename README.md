@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @yug20
-- 👀 I’m interested in Developing a website 
-- 🌱 I’m currently learning new something 
-- 💞️ I’m looking to collaborate on ...
+- 👀 telescope I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, Sass, Less, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, and MYSQL 
+- 🌱 seedling I’m currently learning NodeJs and Express 
+- dancers I’m looking for help with ...
 - 📫 How to reach me ...
+  
+<!-- I’m looking to collaborate on Youtube and Full Stack Developer
+speech_balloon Ask me about ... MERN
+smile Pronouns: ... YES
+zap Fun fact: ... I am Funny and I love to Code -->
 
 # yug-jadvani
 
