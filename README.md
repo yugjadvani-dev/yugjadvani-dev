@@ -16,7 +16,7 @@ zap Fun fact: ... I am Funny and I love to Code -->
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yug-jadvani-587b5a238" target="blank">
+<a href="https://www.linkedin.com/in/yug-jadvani-587b5a238" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartugenccan" height="30" width="40" /></a>
 </p>
 
