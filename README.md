@@ -14,11 +14,6 @@ zap Fun fact: ... I am Funny and I love to Code -->
 <h1 align="center">Hi 👋, I'm yug-jadvani</h1>
 <h3 align="center">A hard-working web Developer from Surat.</h3>
 
-<p align="left"> 
-<a href="https://twitter.com/bartugenccan" target="blank">
-<img src="https://img.shields.io/twitter/follow/bartugenccan?logo=twitter&style=for-the-badge" alt="bartugenccan" /></a> 
-</p>
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yug-jadvani-587b5a238" target="blank">
