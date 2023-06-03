@@ -20,7 +20,7 @@ zap Fun fact: ... I am Funny and I love to Code -->
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartugenccan" height="30" width="40" /></a>
 
 <a href="https://join.skype.com/invite/rT7aCohzWJgo" target="_blank">
-<img align="center" src="https://cdn.vox-cdn.com/thumbor/gL58jtXv4k4Z16gjEGXMA8KA5Rk=/0x0:1320x880/1400x1400/filters:focal(660x440:661x441)/cdn.vox-cdn.com/uploads/chorus_asset/file/8690525/newskypelogo.jpg" alt="bartugenccan" height="30" width="40" /></a>
+<img align="center" src="https://w7.pngwing.com/pngs/147/876/png-transparent-skype-logo-others.png" alt="bartugenccan" height="30" width="40" /></a>
   
  
 </p>
