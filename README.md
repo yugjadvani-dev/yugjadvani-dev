@@ -18,6 +18,9 @@ zap Fun fact: ... I am Funny and I love to Code -->
 <p align="left">
 <a href="https://www.linkedin.com/in/yug-jadvani-587b5a238" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartugenccan" height="30" width="40" /></a>
+
+<a href="https://join.skype.com/invite/rT7aCohzWJgo" target="_blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/991px-Skype_logo_%282019%E2%80%93present%29.svg.png" alt="bartugenccan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
