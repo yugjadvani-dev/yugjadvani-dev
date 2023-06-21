@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yug20
-- 👀 telescope I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, Sass, Less, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, and MYSQL 
+- 👀 telescope I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, Sass, Less, ReactJs, Material UI, and Redux.
 - 🌱 seedling I’m currently learning NodeJs and Express 
 - dancers I’m looking for help with ...
 - 📫 How to reach me ...
