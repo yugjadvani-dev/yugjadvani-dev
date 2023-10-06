@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yug20
+- 👋 Hi, I’m @yugjadvani-dev
 - 👀 telescope I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, Sass, ReactJs, Material UI, and Redux.
 - 🌱 seedling I’m currently learning NodeJs and Express 
 - dancers I’m looking for help with ...
