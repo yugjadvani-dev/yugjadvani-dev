@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @yugjadvani-dev
-- 👀 telescope I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, Sass, ReactJs, Material UI, and Redux.
-- 🌱 seedling I’m currently learning NodeJs and Express 
-- dancers I’m looking for help with ...
-- 📫 How to reach me ...
+Engineer. Innovator. ML Enthusiast
+------------------------------------
+
+Chase is a frontend developer focused on ML and object detection and how it can enhance human experiences.
+
+* 👋 Hi, I’m @yugjadvani-dev
+* 🌍  I'm based in New York City, NY
+* 🖥️  See my portfolio at [My Portfolio](https://yugjadvani.vercel.app/)
+* ✉️  You can contact me at [yugjadvani@gmail.com](mailto:yugjadvani@gmail.com)
+* 🚀  I'm currently working on [Programmable Drones]
+* 🧠  I'm learning everything Javascript
+* ⚡  I have a sphynx cat named Taro
   
 <!-- I’m looking to collaborate on Youtube and Full Stack Developer
 speech_balloon Ask me about ... MERN
