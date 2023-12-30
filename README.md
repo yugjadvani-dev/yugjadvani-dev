@@ -7,7 +7,7 @@ Web Developer and App Developer
 * 🌍  I'm based in Surat, India
 * 🖥️  See my portfolio at [My Portfolio](http://yugjadvani.vercel.app/)
 * ✉️  You can contact me at [yugjadvani.dev@gmail.com](mailto:yugjadvani.dev@gmail.com)
-* 🚀  I'm currently working on [Optics Haven](http://www.opticshaven.com/)
+* 🚀  I'm currently working on [Coffee Shop App](https://github.com/yugjadvani-dev/CoffeeShopApp)
 * 🧠  I'm learning React Native and NextJs
 * 🤝  I'm open to collaborating on Other drone projects!
 * ⚡  I have cat name Taro
