@@ -1,8 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="yug-jadvani" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yug-jadvani?trk=profile-badge">Yug Jadvani</a></div>
-              
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yug Jadvani
 ===================================================================================================================================
 
