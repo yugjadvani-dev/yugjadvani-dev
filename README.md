@@ -10,7 +10,8 @@ Web Developer and App Developer
 * 🚀  I'm currently working on [Coffee Shop App](https://github.com/yugjadvani-dev/CoffeeShopApp)
 * 🧠  I'm learning React Native and NextJs
 * 🤝  I'm open to collaborating on Other drone projects!
-* ⚡  I have cat name Taro
+* 🟢  Open for Freelance
+* ⚡  Reach me out on [Medium](https://medium.com/@yug.jadvani07)
 
 <a href="https://www.buymeacoffee.com/yugjadvani9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
