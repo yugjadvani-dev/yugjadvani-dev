@@ -12,6 +12,7 @@ Web Developer and App Developer
 * 🤝  I'm open to collaborating on Other drone projects!
 * 🟢  Open for Freelance
 * ⚡  Reach me out on [Medium](https://medium.com/@yug.jadvani07)
+* 📘  I am available on [Hashnode](https://hashnode.com/@yugjadvani)
 
 <a href="https://www.buymeacoffee.com/yugjadvani9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
