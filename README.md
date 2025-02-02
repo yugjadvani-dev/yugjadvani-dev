@@ -13,8 +13,10 @@ Web Developer and App Developer
 * 🟢  Open for Freelance
 * ⚡  Reach me out on [Medium](https://medium.com/@yug.jadvani07)
 * 📘  I am available on [Hashnode](https://hashnode.com/@yugjadvani)
-
+  
+<!---
 <a href="https://www.buymeacoffee.com/yugjadvani9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+-->
 
 <a href="https://www.github.com/yugjadvani-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yugjadvani-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/jadvani_yug" target="_blank" rel="noreferrer"><img
