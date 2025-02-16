@@ -7,7 +7,7 @@ Web Developer and App Developer
 * 🌍  I'm based in Surat, India
 * 🖥️  See my portfolio at [My Portfolio](http://yugjadvani.vercel.app/)
 * ✉️  You can contact me at [yugjadvani.dev@gmail.com](mailto:yugjadvani.dev@gmail.com)
-* 🚀  I'm currently working on [Coffee Shop App](https://github.com/yugjadvani-dev/CoffeeShopApp)
+* 🚀  I'm currently working on [LexBridge](https://github.com/yugjadvani-dev/LexBridge)
 * 🧠  I'm learning React Native and NextJs
 * 🤝  I'm open to collaborating on Other drone projects!
 * 🟢  Open for Freelance
@@ -24,7 +24,6 @@ src="https://img.shields.io/twitter/follow/jadvani_yug?logo=twitter&style=for-th
 /></a>
 
 ### Skills
-
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -134,9 +133,6 @@ src="https://img.shields.io/twitter/follow/jadvani_yug?logo=twitter&style=for-th
   </a>
 </p>
 
-
-
-
 ### Socials
 
 <p align="left"> 
@@ -232,7 +228,6 @@ src="https://img.shields.io/twitter/follow/jadvani_yug?logo=twitter&style=for-th
     </picture> 
   </a>
 </p>
-
 
 ### Badges
 
