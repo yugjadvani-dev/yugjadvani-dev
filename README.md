@@ -17,7 +17,9 @@ Web Developer and App Developer
 <a href="https://www.buymeacoffee.com/yugjadvani9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 -->
 
+<!---
 <div class="contra-hire-me-button" data-analyticsUserId="d0368b63-f4fa-4e53-9a3a-58137912cbd6" data-theme="light" data-username="yug_jadvani_icsgwtah"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+-->
 
 <a href="https://www.github.com/yugjadvani-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yugjadvani-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/jadvani_yug" target="_blank" rel="noreferrer"><img
