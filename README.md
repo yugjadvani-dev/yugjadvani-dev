@@ -236,7 +236,7 @@ src="https://img.shields.io/twitter/follow/jadvani_yug?logo=twitter&style=for-th
 
 <b>My Roadmap Stats</b>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65d6b64e66cd6d03d2c88d8f?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65d6b64e66cd6d03d2c88d8f?variant=dark)](https://roadmap.sh)
 
 <b>My GitHub Stats</b>
 
