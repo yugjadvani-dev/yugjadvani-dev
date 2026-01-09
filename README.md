@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugjadvani-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yugjadvani-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugjadvani-dev" alt="yugjadvani-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jadvani_yug" target="blank"><img src="https://img.shields.io/twitter/follow/jadvani_yug?logo=twitter&style=for-the-badge" alt="jadvani_yug" /></a> </p>
 
 - 🌱 I’m currently learning **AI integrations, system design, scalable SaaS architecture**
